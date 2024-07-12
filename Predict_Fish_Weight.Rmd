@@ -69,8 +69,6 @@ summary.lm(perchModel)
 ```
 
 
-
-
 ```{r}
 library(leaps)
 regsubsets.out <-
